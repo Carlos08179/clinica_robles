@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ClinicaRoblesApp</string>
+    <string name="specialty_icon_desc">Descripción del ícono de especialidad</string>
+    <string name="recycler_view_desc">Lista de especialidades médicas</string>
+    <string name="logo_desc">Logo de Clínica Robles</string>
+</resources>

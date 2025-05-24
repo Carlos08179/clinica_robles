@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".DoctorsActivity">
+
+    <!-- Título simple -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nuestros Doctores"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+
+    <!-- Lista manual de doctores -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="• Dr. Roberto Chavesta (Cardiólogo)\nHorario: Lun-Vie 9am-6pm\n\n• Dra. Jaime Vega (Dermatóloga)\nHorario: Mar-Jue 8am-4pm"
+        android:textSize="16sp"/>
+
+</LinearLayout>
